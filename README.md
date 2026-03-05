@@ -7,7 +7,7 @@ Student
 ตอนนี้ผมเป็นนักศึกษา สาขา Computer\_Science มหาวิทยาลัย Songkhla Rajabhat University
 
 * 🌍  I'm based in Nakhon Si Thammarat, Thailand
-* ✉️  You can contact me at [654234027@parichat.skru.ac.th](mailto:654234027@parichat.skru.ac.th)
+* ✉️  You can contact me at [pakorn.bw.jz@gmail.com](mailto:pakorn.bw.jz@gmail.com)
 
 ### Skills
 
