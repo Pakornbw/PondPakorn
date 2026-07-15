@@ -41,7 +41,7 @@ Document search system using Elasticsearch.
 Tech:
 React, TypeScript, Node.js, MongoDB, Elasticsearch, Docker
 
-### Superapp Dashboard
+### SuperApp Dashboard
 Interactive dashboard with real-time widgets and charts.
 
 Tech:
